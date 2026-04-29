@@ -1,1 +1,14 @@
-{\n  "name": "kalshi-backend",\n  "version": "1.0.0",\n  "main": "server.js",\n  "scripts": {\n    "start": "node server.js"\n  },\n  "dependencies": {\n    "express": "^4.17.1",\n    "pg": "^8.7.1",\n    "dotenv": "^10.0.0",\n    "axios": "^0.21.1"\n  }\n}
+{
+  "name": "kalshi-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.7.1",
+    "dotenv": "^10.0.0",
+    "axios": "^0.21.1"
+  }
+}
